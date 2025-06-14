@@ -17,12 +17,12 @@ Xでアップした作品のcsp （未統合版）ファイルです
 
 ## FAN ART FAIR USE GUIDELINE
 - All files uploaded in this repository are fan arts.
-- **YOU MAY**
+- **YOU MAY**:
   ・You may view/research this file for personal study only.
-- **YOU MAY NOT**
+- **YOU MAY NOT**:
   ・You may NOT claim this work as your own.  
   ・You may NOT redistribute/edit for public use.
   ・You may NOT use this file for commercial purposes.
-- **COPYRIGHT HOLDERS**
+- **COPYRIGHT HOLDERS**:
   ・Original [Umamusume Pretty Derby] © [Cygames Inc.].  
   ・Artwork © [IllusGrater] - Shared for educational purposes only.
