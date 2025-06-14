@@ -2,7 +2,7 @@
 
 Xでアップした作品のcsp （未統合版）ファイルです
 
-## ライセンス
+## ファンアート利用ガイドライン
 - このファイルは「二次創作」ファンアートです。  
 - **許可される用途**:  
   ・個人学習・研究目的での閲覧  
@@ -14,3 +14,10 @@ Xでアップした作品のcsp （未統合版）ファイルです
 - **著作権表記**:  
   ・原作物: [ウマ娘プリティーダービー] © [株式会社Cygames]  
   ・ファンアート制作: © [IllusGrater] - 教育目的でのみ共有
+
+## FAN ART FAIR USE GUIDELINE
+- You may view/learn from this file.  
+- You may NOT claim this work as your own.  
+- You may NOT redistribute/edit for public use.  
+- Original [Umamusume Pretty Derby] © [Cygames Inc.].  
+- Artwork © [IllusGrater] - Shared for educational purposes only.
