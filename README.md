@@ -19,8 +19,8 @@ Xでアップした作品のcsp （未統合版）ファイルです
 ## ダウンロード方法/HOW TO DOWNLOAD
 
 アカウント作成はいりません/You don't have to create an account.
-下記のリンクで、関連ファイルのページへ移行し、ダウンロードボタンを押せば直接にダウンロードことができます。
-Click on the link next to the file, and click on the download button to directly download.
+下記のリンクで、関連ファイルのページへ移行し、「View Raw」ボタンを押せば直接にダウンロードことができます。
+Click on the link next to the file, and click on the "View Raw" button to directly download.
 
 |サムネイル|リンク|
 |---------|--------|
