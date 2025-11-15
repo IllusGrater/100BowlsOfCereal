@@ -2,27 +2,25 @@
 
 Xでアップした作品のcsp （未統合版）ファイルです
 
-## ファンアート利用ガイドライン
-- このリポジトリにアップロードしたファイルは「二次創作」アートです。  
-- **許可される用途**:  
-  - 個人学習・研究目的での閲覧  
-  - 技術参考としての使用  
-- **禁止事項**:  
-  - 作品全体または一部を自身の作品として公表すること  
-  - 再配布・改変後の公開  
-  - 商用利用  
-- **著作権表記**:  
-  - 原作物: [ウマ娘プリティーダービー] © [株式会社Cygames]  
-  - ファンアート制作: © [IllusGrater] - 教育目的でのみ共有
+## ダウンロード方法/HOW TO DOWNLOAD
 
-## FAN ART FAIR USE GUIDELINE
-- All files uploaded in this repository are fan arts.
-- **YOU MAY**:
-  - You may view/research this file for personal study only.
-- **YOU MAY NOT**:
-  - You may NOT claim this work as your own.  
-  - You may NOT redistribute/edit for public use.
-  - You may NOT use this file for commercial purposes.
-- **COPYRIGHT HOLDERS**:
-  - Original [Umamusume Pretty Derby] © [Cygames Inc.].  
-  - Artwork © [IllusGrater] - Shared for educational purposes only.
+アカウント作成はいりません/You don't have to create an account.
+下記のリンクで、関連ファイルのページへ移行し、ダウンロードボタンを押せば直接にダウンロードことができます。
+Click on the link next to the file, and click on the download button to directly download.
+
+|サムネイル|リンク|
+|---------|--------|
+|AAAAA|BBBBB|
+
+## ファンアート利用ガイドライン / FAN ART FAIR USE GUIDELINE
+- このリポジトリにアップロードしたファイルは「二次創作」アートです。  / All files uploaded in this repository are fan arts.
+- **許可される用途/YOU MAY**:  
+  - 個人学習・研究目的での閲覧 / View the file for personal study
+  - 技術参考としての使用 / Reference the techniques used in each file and apply to your own piece
+- **禁止事項/YOU MAY NOT**:  
+  - 作品全体または一部を自身の作品として公表すること / You may NOT claim this work as your own.  
+  - 再配布・改変後の公開  / You may NOT redistribute/edit for public use.
+  - 商用利用 / You may NOT use this file for commercial purposes.
+- **著作権表記/COPYRIGHT HOLDERS**:  
+  - 原作物: [ウマ娘プリティーダービー] © [株式会社Cygames]  / Original [Umamusume Pretty Derby] © [Cygames Inc.].
+  - ファンアート制作: © [IllusGrater] - 教育目的でのみ共有 / Artwork © [IllusGrater] - Shared for educational purposes only.
