@@ -24,5 +24,5 @@ Click on the link next to the file, and click on the download button to directly
 
 |サムネイル|リンク|
 |---------|--------|
-|AAAAA|BBBBB|
+|![kaidashi.clip](./thumbnails/kaidashi.png)|[ダウンロード/DOWNLOAD](./files/kaidashi.clip)|
 
