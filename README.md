@@ -1,8 +1,6 @@
 # 100 Bowls of Cereal
 
-Xでアップした作品のcsp （未統合版）ファイルです
-
-## ファンアート利用ガイドライン / FAN ART FAIR USE GUIDELINE
+### ファンアート利用ガイドライン / FAN ART FAIR USE GUIDELINE
 - このリポジトリにアップロードしたファイルは「二次創作」アートです。  / All files uploaded in this repository are fan arts.
 - **許可される用途/YOU MAY**:  
   - 個人学習・研究目的での閲覧 / View the file for personal study
@@ -19,7 +17,9 @@ Xでアップした作品のcsp （未統合版）ファイルです
 ## ダウンロード方法/HOW TO DOWNLOAD
 
 アカウント作成はいりません/You don't have to create an account.
+
 下記のリンクで、関連ファイルのページへ移行し、「View Raw」ボタンを押せば直接にダウンロードことができます。
+
 Click on the link next to the file, and click on the "View Raw" button to directly download.
 
 |サムネイル|リンク|
