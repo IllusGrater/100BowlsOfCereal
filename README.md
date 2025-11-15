@@ -2,16 +2,6 @@
 
 Xでアップした作品のcsp （未統合版）ファイルです
 
-## ダウンロード方法/HOW TO DOWNLOAD
-
-アカウント作成はいりません/You don't have to create an account.
-下記のリンクで、関連ファイルのページへ移行し、ダウンロードボタンを押せば直接にダウンロードことができます。
-Click on the link next to the file, and click on the download button to directly download.
-
-|サムネイル|リンク|
-|---------|--------|
-|AAAAA|BBBBB|
-
 ## ファンアート利用ガイドライン / FAN ART FAIR USE GUIDELINE
 - このリポジトリにアップロードしたファイルは「二次創作」アートです。  / All files uploaded in this repository are fan arts.
 - **許可される用途/YOU MAY**:  
@@ -24,3 +14,15 @@ Click on the link next to the file, and click on the download button to directly
 - **著作権表記/COPYRIGHT HOLDERS**:  
   - 原作物: [ウマ娘プリティーダービー] © [株式会社Cygames]  / Original [Umamusume Pretty Derby] © [Cygames Inc.].
   - ファンアート制作: © [IllusGrater] - 教育目的でのみ共有 / Artwork © [IllusGrater] - Shared for educational purposes only.
+
+
+## ダウンロード方法/HOW TO DOWNLOAD
+
+アカウント作成はいりません/You don't have to create an account.
+下記のリンクで、関連ファイルのページへ移行し、ダウンロードボタンを押せば直接にダウンロードことができます。
+Click on the link next to the file, and click on the download button to directly download.
+
+|サムネイル|リンク|
+|---------|--------|
+|AAAAA|BBBBB|
+
