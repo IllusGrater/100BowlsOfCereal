@@ -24,5 +24,5 @@ Click on the link next to the file, and click on the "View Raw" button to direct
 
 |サムネイル|リンク|
 |---------|--------|
-|<a><img src="./thumbnails/kaidashi.png" align="left" height="256"></a>|[ダウンロード/DOWNLOAD](./raw/refs/heads/main/files/kaidashi.clip))|
+|<a><img src="./thumbnails/kaidashi.png" align="left" height="256"></a>|[ダウンロード/DOWNLOAD](https://github.com/IllusGrater/100BowlsOfCereal/raw/refs/heads/main/files/kaidashi.clip)|
 
