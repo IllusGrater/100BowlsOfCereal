@@ -18,9 +18,9 @@
 
 アカウント作成やログインの必要はありません / You don't have to create or login to an account.
 
-下記のリンクで、関連ファイルのページへ移行し、「View Raw」ボタンを押せば直接にダウンロードことができます。
+下記のフォームで、「ダウンロード」リンクを押すと、対応ファイルのダウンロードが始まります
 
-Click on the link next to the file, and click on the "View Raw" button to directly download.
+Click on the download link in the form below, and the downloading of the specific file will begin.
 
 |サムネイル|リンク|
 |---------|--------|
