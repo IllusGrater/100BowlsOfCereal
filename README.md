@@ -16,7 +16,7 @@
 
 ## ダウンロード方法/HOW TO DOWNLOAD
 
-アカウント作成はいりません/You don't have to create an account.
+アカウント作成やログインの必要はありません / You don't have to create or login to an account.
 
 下記のリンクで、関連ファイルのページへ移行し、「View Raw」ボタンを押せば直接にダウンロードことができます。
 
