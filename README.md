@@ -1,7 +1,7 @@
 # 100 Bowls of Cereal
 
-### ファンアート利用ガイドライン / FAN ART FAIR USE GUIDELINE
-- このリポジトリにアップロードしたファイルは「二次創作」アートです。  / All files uploaded in this repository are fan arts.
+### 利用ガイドライン / FAN ART FAIR USE GUIDELINE
+- このリポジトリにアップロードしたファイルは「二次創作」アートです。 / All files uploaded in this repository are fan arts.
 - **許可される用途/YOU MAY**:  
   - 個人学習・研究目的での閲覧 / View the file for personal study
   - 技術参考としての使用 / Reference the techniques used in each file and apply to your own piece
