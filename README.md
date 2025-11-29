@@ -25,4 +25,4 @@ Click on the download link in the form below, and the downloading of the specifi
 |サムネイル|リンク|
 |---------|--------|
 |<a><img src="./thumbnails/kaidashi.png" align="left" height="256"></a>|[ダウンロード/DOWNLOAD](https://github.com/IllusGrater/100BowlsOfCereal/raw/refs/heads/main/files/kaidashi.clip)|
-
+|<a><img src="./thumbnails/morning_rain.png" align="left" height="256"></a>|[ダウンロード/DOWNLOAD](https://github.com/IllusGrater/100BowlsOfCereal/raw/refs/heads/main/files/morning_rain.clip)|
