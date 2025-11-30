@@ -14,7 +14,7 @@
   - 二次創作: © [IllusGrater] - 教育目的でのみ共有 / Artwork © [IllusGrater] - Shared for educational purposes only.
 
 
-## ダウンロード方法/HOW TO DOWNLOAD
+## ダウンロード方法 / HOW TO DOWNLOAD
 
 アカウント作成やログインの必要はありません / You don't have to create or login to an account.
 
